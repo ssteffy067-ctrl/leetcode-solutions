@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [1927-sum-game](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [1872-stone-game-viii](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ssteffy067-ctrl/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
